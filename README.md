@@ -115,3 +115,4 @@ For all questions related to sponsorship please get in touch with me via email s
 # Important notice about the usage of this software for `.ru`, `.su`, `.by`, and `.рф` domain zones
 
 At this moment i work on clearing code from ukrainian Woaf-woaf. 
+Ваще забавно что тип реально думает что подобным решением он повлияет на что-то.
